@@ -1,4 +1,4 @@
-A modular collection of computer vision and image processing algorithms implemented in Python. This repository serves as a workbench for exploring fundamental concepts such as contrast enhancement, histogram manipulation, and photometric-invariant object detection.
+A modular collection of computer vision and image processing algorithms implemented in Python. This repository serves as a workbench for exploring fundamental concepts in image processing 
 
 ## 📂 Current Modules
 
